@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salonijain3
+- 👋 Hi, I’m Saloni
 - 👀 I’m interested in all things frontend!
 
 <!---
